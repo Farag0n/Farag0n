@@ -8,31 +8,47 @@
 </div>
 
 ###
+<h3 align="center">Tecnologies & Lenguages</h3>
 
-<img align="right" width="30%" src="img/star-GIF.gif" alt="Coding Cat"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+
 
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="30" alt=".NET logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberry pi logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
+  <img width="12" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
 </div>
 
 ###
@@ -40,28 +56,24 @@
 -  I’m currently working on <img src="/img/aodesu-logo.png" height="15">[
 aodesu](https://github.com/aodesu-org)
 
-- 🌱 I’m currently learning **Integración IA & TON Blockchain**
+- I’m currently learning **Clean architecture & React**
 
-- 👯 I’m looking to collaborate on [Comunidad Web3 e IA](https://cafetech.lat/)
+- All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
 
-- 🤝 I’m looking for help with [Integración Blockchain en Salud](https://zafiroapp.com/)
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sebastian-agudelo-alvarez-868901134/](https://www.linkedin.com/in/sebastian-agudelo-alvarez-868901134/)
-
-- 💬 Ask me about **Ruby on Rails, SEO técnico, Turbo Frames, Blockchain e Inteligencia Artificial**
+- Ask me about **Arduino, IoT, Linux, Open-source, and C#**
 
 ###
 
 <div align="left">
-  <a href="jsagudeloaa@gmail.com">
+  <a href="miguelanga1604@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/sebastian-agudelo-alvarez-868901134/">
+  <a href="https://www.linkedin.com/in/miguel-angel-angarita-jaramillo-faragon/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.tiktok.com/@el_illuminaki">
+  <!-- <a href="poner mi link de insta">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
@@ -70,7 +82,7 @@ aodesu](https://github.com/aodesu-org)
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/illuminaki/illuminaki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/illuminaki/illuminaki/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/illuminaki/illuminaki/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farag0n/Farag0n/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farag0n/Farag0n/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/illuminaki/Farag0n/output/pacman-contribution-graph.svg">
 </picture>
