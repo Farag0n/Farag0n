@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=elcheryu-u.elcheryu-u&right_color=hotpink"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Farag0n.Farag0n&right_color=purple" />
 </div>
 
 <h1 align="left">Hello there I'm Miguel Angel Angarita, a Backend Developer from Colombia <img src="/img/tux-coding.gif" height="40" />. </h1>
@@ -135,6 +135,6 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Running+on+more+coffee+than+hours+of+sleep" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Running+on+more+coffee+than+hours+of+sleep" />
 </p>
 
