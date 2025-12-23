@@ -1,16 +1,31 @@
-<h2 align="left">Hello there I'm Miguel Angel Angarita, a Backend Developer from Colombia <img src="/img/tux-coding.gif" height="30" />. </h2>
+<h1 align="left">Hello there I'm Miguel Angel Angarita, a Backend Developer from Colombia <img src="/img/tux-coding.gif" height="40" />. </h1>
 
-###
+## About Me:
+-  I’m currently working on [aodesu](https://github.com/aodesu-org) <img src="/img/aodesu-logo.png" height="15">
+
+- I’m currently learning **Clean architecture & React**
+
+- All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
+
+- Ask me about **Arduino, IoT, Linux, Open-source, and C#**
+
+---
+## 📊 GitHub Stats:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farag0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  ![](https://github-readme-stats.vercel.app/api?username=Farag0n&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Farag0n&theme=github_dark&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farag0n&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
-###
-<h3 align="center">Tecnologies & Lenguages</h3>
+---
 
+
+## 💻 Tech Stack:
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
 
@@ -49,17 +64,20 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/n8n.svg" height="30" alt="n8n logo" />
+
+
 </div>
-
-###
-
--  I’m currently working on [aodesu](https://github.com/aodesu-org) <img src="/img/aodesu-logo.png" height="15">
-
-- I’m currently learning **Clean architecture & React**
-
-- All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
-
-- Ask me about **Arduino, IoT, Linux, Open-source, and C#**
 
 ###
 
@@ -74,8 +92,6 @@
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
   </a> -->
 </div>
-
-###
 
 <br clear="both">
 
