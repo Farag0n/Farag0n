@@ -12,6 +12,9 @@
 - All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
 
 - Ask me about **Arduino, IoT, Linux, Open-source, and C#**
+- ```bash
+  sudo apt update coffee
+  ```
 
 ---
 
