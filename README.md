@@ -7,7 +7,7 @@
 ## About Me:
 -  I’m currently working on [aodesu](https://github.com/aodesu-org) <img src="/img/aodesu-logo.png" height="15">
 
-- I’m currently learning **Clean architecture & React**
+- I’m currently learning **Clean architecture & Vue**
 
 - All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
 
@@ -51,7 +51,7 @@
   <img width="12" />
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
@@ -102,7 +102,9 @@
 ## 📊 GitHub Stats:
 
   ![](https://github-readme-stats.vercel.app/api?username=Farag0n&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farag0n&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
   ![](https://nirzak-streak-stats.vercel.app/?user=Farag0n&theme=github_dark&hide_border=false)
 
 ---
