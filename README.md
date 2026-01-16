@@ -7,8 +7,6 @@
 ## About Me:
 -  I’m currently working on [aodesu](https://github.com/aodesu-org) <img src="/img/aodesu-logo.png" height="15">
 
-- My organazation to freelance projects 
-
 - I’m currently learning **Clean architecture & Vue**
 
 - All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
