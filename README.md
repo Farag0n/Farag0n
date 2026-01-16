@@ -7,6 +7,8 @@
 ## About Me:
 -  I’m currently working on [aodesu](https://github.com/aodesu-org) <img src="/img/aodesu-logo.png" height="15">
 
+- My organazation to freelance projects 
+
 - I’m currently learning **Clean architecture & Vue**
 
 - All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
@@ -101,9 +103,9 @@
 ---
 ## 📊 GitHub Stats:
 
-  ![](https://github-readme-stats.vercel.app/api?username=Farag0n&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Farag0n&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farag0n&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Farag0n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   ![](https://nirzak-streak-stats.vercel.app/?user=Farag0n&theme=github_dark&hide_border=false)
 
