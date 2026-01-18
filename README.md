@@ -7,7 +7,7 @@
 ## About Me:
 -  I’m currently working on [aodesu](https://github.com/aodesu-org) <img src="/img/aodesu-logo.png" height="15">
 
-- I’m currently learning **Clean architecture & Vue**
+- I’m currently learning **Clean architecture with DDD & Angular**
 
 - All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
 
