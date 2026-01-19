@@ -9,7 +9,7 @@
 
 - I’m currently learning **Clean architecture with DDD & Angular**
 
-- The organization for my freelance and more serious projects: [NordForge](https://github.com/NordForge-Org)
+- The organization for my freelance and more serious projects: [NordForge](https://github.com/NordForge-Org) <img src="/img/nord-forge-logo.jpg" height="15">
 
 - All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
 
