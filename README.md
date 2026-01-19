@@ -9,6 +9,8 @@
 
 - I’m currently learning **Clean architecture with DDD & Angular**
 
+- The organization for my freelance and more serious projects: [NordForge](https://github.com/NordForge-Org)
+
 - All of my projects are available at my [Portfolio](faragon.sbs) or in this repo.
 
 - Ask me about **Arduino, IoT, Linux, Open-source, C# or Coffee**
