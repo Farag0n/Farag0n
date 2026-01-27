@@ -7,7 +7,7 @@
 ## About Me:
 -  I’m currently working on [aodesu](https://github.com/aodesu-org) <img src="/img/aodesu-logo.png" height="15">
 
-- I’m currently learning **Clean architecture with DDD & Angular**
+- I’m currently learning **Clean architecture with DDD & Vue.js**
 
 - The organization for my freelance and more serious projects: [NordForge](https://github.com/NordForge-Org) <img src="/img/nord-forge-logo.jpg" height="15">
 
@@ -53,7 +53,7 @@
   <img width="12" />
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
