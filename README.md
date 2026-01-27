@@ -91,6 +91,10 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="30" alt="n8n logo" />
+  <img width="12" />
+  
 </td>
 
 </td>
