@@ -75,7 +75,6 @@
 
 </td>
 
-<!-- System & Tools -->
 <!-- Systems & Tools -->
 <td>
 
@@ -98,6 +97,10 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="Raspberry Pi" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img with="12" />
 
 </td>
 
